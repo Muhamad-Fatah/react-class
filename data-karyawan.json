@@ -1,0 +1,60 @@
+{
+  "data-karyawan": [
+    {
+      "id": 1557298991816,
+      "nama_karyawan": "allen saputra",
+      "jabatan": "Security",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1993-12-08"
+    },
+    {
+      "id": 1537298993816,
+      "nama_karyawan": "satriaaa",
+      "jabatan": "Marketing",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1990-12-12"
+    },
+    {
+      "id": 1557298963816,
+      "nama_karyawan": "putra agung",
+      "jabatan": "Security",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1991-12-12"
+    },
+    {
+      "id": 1557298993816,
+      "nama_karyawan": "gerysenaa",
+      "jabatan": "Marketing",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "2011-01-31"
+    },
+    {
+      "nama_karyawan": "Asep",
+      "jabatan": "Manager",
+      "tanggal_lahir": "2022-06-15",
+      "id": 1654747046449,
+      "jenis_kelamin": "Laki-laki"
+    },
+    {
+      "nama_karyawan": "Mamats",
+      "jabatan": "CEO",
+      "tanggal_lahir": "2022-06-17",
+      "id": 1654747105073,
+      "jenis_kelamin": "Laki-laki"
+    },
+    {
+      "nama_karyawan": "Asmodius",
+      "jabatan": "Officer Office",
+      "tanggal_lahir": "2022-06-16",
+      "id": 1654748144211,
+      "jenis_kelamin": "Laki-laki"
+    },
+    {
+      "nama_karyawan": "Usman",
+      "jabatan": "Pemimpin",
+      "tanggal_lahir": "2234-08-05",
+      "id": 1654748185956,
+      "jenis_kelamin": "Laki-laki"
+    }
+  ]
+}
