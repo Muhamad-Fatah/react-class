@@ -2,17 +2,17 @@
   "data-karyawan": [
     {
       "id": 1557298991816,
-      "nama_karyawan": "allen saputra",
-      "jabatan": "Security",
+      "nama_karyawan": "allen saputra kesuma",
+      "jabatan": " Managerd",
       "jenis_kelamin": "laki-laki",
       "tanggal_lahir": "1993-12-08"
     },
     {
       "id": 1537298993816,
-      "nama_karyawan": "satriaaa",
-      "jabatan": "Marketing",
+      "nama_karyawan": "Udinesee",
+      "jabatan": "Buka warung",
       "jenis_kelamin": "laki-laki",
-      "tanggal_lahir": "1990-12-12"
+      "tanggal_lahir": "1990-12-09"
     },
     {
       "id": 1557298963816,
@@ -55,6 +55,20 @@
       "tanggal_lahir": "2234-08-05",
       "id": 1654748185956,
       "jenis_kelamin": "Laki-laki"
+    },
+    {
+      "id": 1654767412526,
+      "nama_karyawan": "Udjang",
+      "jabatan": "Buka toko",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1990-12-26"
+    },
+    {
+      "id": 1654767927837,
+      "nama_karyawan": "Usman",
+      "jabatan": "khalifah",
+      "jenis_kelamin": "Laki",
+      "tanggal_lahir": ""
     }
   ]
 }

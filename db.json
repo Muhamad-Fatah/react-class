@@ -23,10 +23,44 @@
     },
     {
       "id": 1557298993816,
-      "nama_karyawan": "gerysena",
-      "jabatan": "Marketing",
+      "nama_karyawan": "Syamsudin",
+      "jabatan": "Dukun",
       "jenis_kelamin": "laki-laki",
-      "tanggal_lahir": "2011-01-31"
+      "tanggal_lahir": "2011-01-07"
+    },
+    {
+      "nama_karyawan": "Fatah",
+      "jabatan": "Programmer",
+      "tanggal_lahir": "2022-09-04",
+      "id": 1662166554833,
+      "jenis_kelamin": "pria"
+    },
+    {
+      "nama_karyawan": "halo",
+      "jabatan": "",
+      "tanggal_lahir": "",
+      "id": 1662168536639
+    },
+    {
+      "nama_karyawan": "",
+      "jabatan": "adf",
+      "tanggal_lahir": "",
+      "id": 1662168548196,
+      "jenis_kelamin": ""
+    },
+    {
+      "nama_karyawan": "Kak zul",
+      "jabatan": "Direktur",
+      "tanggal_lahir": "1998-12-15",
+      "id": 1664186670390,
+      "jenis_kelamin": "Perempuan"
+    },
+    {
+      "nama_karyawan": "Udin syamsudin",
+      "jabatan": "Penjaga",
+      "tanggal_lahir": "16:07",
+      "id": 1664200636384,
+      "jenis_kelamin": "laki-laki"
     }
   ]
 }

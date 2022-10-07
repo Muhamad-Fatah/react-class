@@ -38,18 +38,11 @@ class App extends Component {
     this.reloadData()
   }
 
-  // Delete database
-  handleRemove(e) {
-    console.log(e.target.value);
-    axios.delete(`http://localhost:3004/data-karyawan/${e.target.value}`)
-      .then(() => {
-        this.reloadData()
-      })
-  }
-
   // Input database
   handleChange(e) {
     let newdataPost = { ...this.state.dataPost };
+    console.log(e.target.value)
+    console.log(newdataPost)
     if (this.state.edit === false) {
       newdataPost["id"] = new Date().getTime();
     }
@@ -88,10 +81,20 @@ class App extends Component {
   handleEdit(e) {
     axios.get(`http://localhost:3004/data-karyawan/${e.target.value}`, this.state.dataPost)
       .then((res) => {
+        console.log(res.data)
         this.setState({
           dataPost: res.data,
           edit: true,
         });
+      })
+  }
+
+  // Delete database
+  handleRemove(e) {
+    console.log(e.target.value);
+    axios.delete(`http://localhost:3004/data-karyawan/${e.target.value}`)
+      .then(() => {
+        this.reloadData()
       })
   }
 
@@ -190,7 +193,7 @@ class App extends Component {
           </Row>
         </Container>
         <Button variant="outline-primary" href="#top" id="btn-to-top">
-          <i className="bi bi-arrow-up-circle" style={{fontSize:"30px"}}/>
+          <i className="bi bi-arrow-up-circle" style={{ fontSize: "30px" }} />
         </Button>
       </div>
     );
